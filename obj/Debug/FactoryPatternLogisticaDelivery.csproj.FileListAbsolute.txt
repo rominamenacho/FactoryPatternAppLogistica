@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\obj\Debug\FactoryPatternLogisticaDelivery.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\obj\Debug\FactoryPatternLogisticaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\bin\Debug\FactoryPatternLogisticaDelivery.exe.config
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\bin\Debug\FactoryPatternLogisticaDelivery.exe
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\bin\Debug\FactoryPatternLogisticaDelivery.pdb
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\obj\Debug\FactoryPatternLogisticaDelivery.exe
+C:\Users\54926\source\repos\FactoryPatternLogisticaDelivery\FactoryPatternLogisticaDelivery\obj\Debug\FactoryPatternLogisticaDelivery.pdb
